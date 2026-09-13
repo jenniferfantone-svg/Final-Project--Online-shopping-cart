@@ -10,7 +10,7 @@ The program lets the user add items, remove them, change quantities, and print d
 
 ## Features 
 
-#### ItesmTPurchase Class
+#### ItemToPurchase Class
 Stores: 
 - name
 - price
@@ -36,7 +36,7 @@ Includes methods to:
 
 - --- 
 
-#Interactive Menu 
+## Interactive Menu 
 The program runs a loop until the user chooses to quit. 
 Menu options: 
 
@@ -54,8 +54,8 @@ Menu options:
 ## How to Run
 1. Make sure Python 3 is installed.  
 2. Clone the repo:
-git clone https://github.com/jenniferfantone-svg/Final-Project--Online-shopping-cart/tree/main
-
+git clone (https://github.com/jenniferfantone-svg/Final-Project--Online-shopping-cart.git
+)
 3. Go into the project folder: Final-Project–Online-shopping-cart
 4. Run the program: python shopping_cart_final.py
 jenniferfantone-svg
