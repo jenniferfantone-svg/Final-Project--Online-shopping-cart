@@ -54,3 +54,24 @@ Menu options:
 ## How to Run
 1. Make sure Python 3 is installed.  
 2. Clone the repo:
+git clone https://github.com/jenniferfantone-svg/Final-Project--Online-shopping-cart/tree/main
+
+3. Go into the project folder: Final-Project–Online-shopping-cart
+4. Run the program: python shopping_cart_final.py
+jenniferfantone-svg
+
+## Project Files
+Final-Project--Online-shopping-cart/
+│
+├── shopping_cart_final.py        # Final Python program
+├── README.md                     # Project overview
+└── Final_Project_Document.docx   # Pseudocode, screenshots, and write-up
+
+
+---
+
+## Author 
+Jennifer – CSC500  
+Colorado State University  
+Fall 2026
+
